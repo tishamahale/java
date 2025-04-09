@@ -26,6 +26,8 @@ public class datatype {
         System.out.println("char: "+g);
         System.out.println("boolean: "+y);
         System.out.println("String: "+z);
+        System.out.println("hello");
         
+     
 
     }}
